@@ -199,7 +199,6 @@ int main() {
 
     /* 清理资源 */ 
     lcd_cleanup();
-    printf("test");
 
     return 0;
 }
