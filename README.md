@@ -374,3 +374,4 @@ lcd_draw_filled_rounded_rectangle(300, 420, 200, 60, 25, COLOR_YELLOW);
 ## 致谢
 
 1.nothings	https://github.com/nothings/stb
+2.lendhu	https://github.com/lendhu
