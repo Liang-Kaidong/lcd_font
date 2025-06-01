@@ -1,10 +1,19 @@
+/*****************************************************************
+File name:font_demo.c
+Author:Liang Kaidong
+Version:V_1.0
+Build date: 2025-05-21
+Description:demo file for liblcd_font.a
+Others:Usage requires preservation of original author attribution.
+Log:1.Optimize code comments and remove some useless code.
+******************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
 #include <string.h>
 #include <stdint.h>
 #include "lcd_font.h"
-
 
 int main() {
     /* 初始化字库 */ 
